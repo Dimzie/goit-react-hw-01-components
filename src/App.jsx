@@ -6,7 +6,6 @@ import TransactionsHistory from 'components/TransactionsHistory/TransactionsHist
 import user from './components/Profile/user';
 import data from './components/Statistics/data';
 import friends from './components/FriendsList/friends';
-
 import transactions from './components/TransactionsHistory/transactions';
 
 export const App = () => {
