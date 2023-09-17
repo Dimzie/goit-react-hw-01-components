@@ -1,70 +1,69 @@
 .userProfileBackground {
-    padding: 100px 0 100px 0;
-    background-color: #e7ecf2;
+  padding: 100px 0 100px 0;
+  background-color: #e7ecf2;
 }
 
 .userProfileCard {
-    padding: 40px;
-    width: 360px;
-    margin: 0 auto;
-    border-radius: 10px;
-    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
-    background-color: #ffffff;
+  padding: 40px;
+  width: 360px;
+  margin: 0 auto;
+  border-radius: 10px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  background-color: #ffffff;
 }
 
 .avatar {
-    width: 200px;
-    border-radius: 50%;
-    margin: 0 auto;
-    margin-bottom: 40px;
+  width: 200px;
+  border-radius: 50%;
+  margin: 0 auto;
+  margin-bottom: 40px;
 }
 
 .descProfWrapper {
-    text-align: center;
+  text-align: center;
 }
 
 .userName {
-    font-size: 32px;
-    font-weight: 700;
-    margin-bottom: 10px;
-    color: #122236;
+  font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 10px;
+  color: #122236;
 }
 
 .userTag {
-    font-size: 20px;
-    margin-bottom: 10px;
-    color: #8e9aa7;
+  font-size: 20px;
+  margin-bottom: 10px;
+  color: #8e9aa7;
 }
 
 .userLocation {
-    font-size: 20px;
-    margin-bottom: 40px;
-    color: #8e9aa7;
+  font-size: 20px;
+  margin-bottom: 40px;
+  color: #8e9aa7;
 }
 
-
 .userStats {
-    display: flex;
-    gap: 20px;
-    justify-content: center;
-    text-decoration: none;
-    list-style: none;
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  text-decoration: none;
+  list-style: none;
 }
 
 .userItem {
-    display: flex;
-    flex-direction: column;
-    text-align: center;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
 }
 
 .statsLabel {
-    font-size: 18px;
-    font-weight: 700;
-    color: #122236;
+  font-size: 18px;
+  font-weight: 700;
+  color: #122236;
 }
 
 .userQuantity {
-    margin-top: 10px;
-    font-size: 16px;
-    color: #8e9aa7;
+  margin-top: 10px;
+  font-size: 16px;
+  color: #8e9aa7;
 }

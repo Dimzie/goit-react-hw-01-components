@@ -12,10 +12,10 @@ import transactions from './components/TransactionsHistory/transactions';
 export const App = () => {
   return (
     <div>
-        <Profile user={user}/>
-        <Statistics data={data}/>
-        <FriendsList friends={friends}/>
-        <TransactionsHistory transactions={transactions}/>
+      <Profile user={user} />
+      <Statistics data={data} />
+      <FriendsList friends={friends} />
+      <TransactionsHistory transactions={transactions} />
     </div>
   );
 };

@@ -1,6 +1,6 @@
 import { ListItem, SpanLabel } from './Statistics.styled';
 
-const StatisticsItem = ({item}) => {
+const StatisticsItem = ({ item }) => {
   return (
     <ListItem>
       <SpanLabel>{item.label}</SpanLabel>
